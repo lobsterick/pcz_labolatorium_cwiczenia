@@ -18,9 +18,9 @@ W folderze głównym załączono także plik z wnioskami, które pojawiły się 
 
 [Ćwiczenie 6 - Dioda RGB](https://github.com/lobsterick/pcz_labolatorium_cwiczenia/blob/master/%C4%86wiczenie%206%20-%20Dioda%20RGB/%5BPDF%5D%20%C4%86wiczenie%206%20-%20Dioda%20RGB.pdf)
 
-[Ćwiczenie 8 -Pomiar "na żądanie" temperatury oraz wilgotności z wykorzystaniem platformy Arduino i czujnika DHT11](https://github.com/lobsterick/pcz_labolatorium_cwiczenia/blob/master/%C4%86wiczenie%208%20-%20Temperatura%20na%20%C5%BC%C4%85danie/%5BPDF%5D%20%C4%86wiczenie%208%20-%20Temperatura%20na%20%C5%BC%C4%85danie.pdf)
+[Ćwiczenie 8 - Pomiar "na żądanie" temperatury oraz wilgotności z wykorzystaniem platformy Arduino i czujnika DHT11](https://github.com/lobsterick/pcz_labolatorium_cwiczenia/blob/master/%C4%86wiczenie%208%20-%20Temperatura%20na%20%C5%BC%C4%85danie/%5BPDF%5D%20%C4%86wiczenie%208%20-%20Temperatura%20na%20%C5%BC%C4%85danie.pdf)
 
-[Ćwiczenie 10 - Model "zamka szyfrowego" w oparciu o klawiaturę matrycową](https://github.com/lobsterick/pcz_labolatorium_cwiczenia/tree/master/%C4%86wiczenie%2010%20-%20W%C5%82asny%20zamek%20na%20szyfr)
+[Ćwiczenie 10 - Model "zamka szyfrowego" w oparciu o klawiaturę matrycową](https://github.com/lobsterick/pcz_labolatorium_cwiczenia/blob/master/%C4%86wiczenie%2010%20-%20W%C5%82asny%20zamek%20na%20szyfr/%5BPDF%5D%20%C4%86wiczenie%2010%20-%20W%C5%82asny%20zamek%20na%20szyfr.pdf)
 
 ## Okładki skryptów
 
